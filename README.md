@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sushmithaLakma
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently pursuing MTech in Computer Science
+Hi!
+I'm Sushmitha. Currently in the final year of MTech, Computer Science.
+Started to learn Data Science a few months ago. Still trying to get better at it. ✌️
 
 <!---
 sushmithaLakma/sushmithaLakma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
